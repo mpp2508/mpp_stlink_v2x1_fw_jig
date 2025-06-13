@@ -1,1 +1,5 @@
-# mpp2580 fast prog adapter for STlink v2.1
+#  STlink v2.1 jig
+
+адаптер для быстрой перепрошивки бутлоадера STlink 
+
+![](/img/001.PNG)
